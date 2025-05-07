@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#aceitando parâmetros através da linha de comando
+
+name=$1
+
+echo $name

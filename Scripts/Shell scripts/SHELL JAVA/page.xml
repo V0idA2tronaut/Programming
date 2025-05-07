@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+    	<servlet-name>meu-shell</servlet-name>
+    	<jsp-file>/shell_java.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+    	<servlet-name>meu-shell</servlet-name>
+    	<url-pattern>/shell_java.jsp</url-pattern>
+	</servlet-mapping>
+</web-app>

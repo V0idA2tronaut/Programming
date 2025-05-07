@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#espera uma entrada (string)
+#imprime essa string
+
+echo Enter your name
+
+read name
+
+echo "your name is $name"
