@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# primeiro script bash para hello world!
-
-echo "hello world!"
-whoami
-id

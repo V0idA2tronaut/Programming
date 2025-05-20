@@ -1,9 +1,0 @@
-#!/bin/bash
-
-#usando múltiplas variáveis
-
-name="itself"
-
-age=0.999999
-
-echo "$name is $age years old"

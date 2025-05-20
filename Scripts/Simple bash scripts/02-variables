@@ -1,7 +1,0 @@
-#!/bin/bash
-
-#armazenamento de variáveis e mostrando variáveis
-
-name="variabe"
-
-echo $name
